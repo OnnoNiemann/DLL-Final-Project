@@ -1,6 +1,8 @@
-# DLL-Final-Project
-
+# Knowledge Distillation and Student Teacher Models
 Author: Onno Niemann
+
+-Problem knowledge distillation aims to solve: Complex models are slow at inference and require large memory -> especially problematic when deployed to small devices
+-Idea: Distill knowledge of complex model (teacher) into simpler model (student) to save memory and enable fast inference
 
 
 # References
